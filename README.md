@@ -4,4 +4,5 @@
 * 'git init' - initialize working directory with git repository
 * ' git status' - shows status of working directory/repository
 * "git add ." - stages changes for commit
-* 'git commint -m' -commit staged changes
+* 'git commit -m' -commit staged changes
+* 'git log' - lists all the commits
