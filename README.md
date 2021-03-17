@@ -12,4 +12,4 @@
 * 'git branch newBranch' - creates new branch
 * 'git branch' - lists all of the branches
 * 'git checkout newBranch'- makes newBranch the current branch
-* 
+* 'git checkout -b other branch' - create and checkout 'otherbranch'
