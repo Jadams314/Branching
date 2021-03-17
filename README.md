@@ -7,9 +7,11 @@
 * 'git commit -m' -commit staged changes
 * 'git log' - lists all the commits
 * 'git config --list' -list current git config
+* 'git config --help' - list options and syntax for git config
+
 ### Remote Commands
 * 'git pull origin main' --pull remote branch main to current local branches
-* ''
+
 ### Branching Commands
 * 'git branch -M newName' - rename currant branch
 * 'git branch newBranch' - creates new branch
