@@ -6,3 +6,4 @@
 * "git add ." - stages changes for commit
 * 'git commit -m' -commit staged changes
 * 'git log' - lists all the commits
+* 'git config --list' -list current git config
